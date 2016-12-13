@@ -1,6 +1,6 @@
 {
   "name": "Przemko.GitHub.io",
   "tagline": "Przemysław Kobylański",
-  "body": "# Repozytoria\r\n\r\n## Dydaktyka\r\n\r\n* [Wstęp do informatyki i programowania](http://github.com/przemko/c-clang-wip)\r\n\r\n## Przykłady\r\n\r\n* [Obsługa terminala w języku Ada](https://github.com/przemko/ada-terminal)\r\n* [Baza i uniwersum Herbranda](https://github.com/przemko/prolog-standard-herbrand)\r\n* [Fib (45)](https://github.com/przemko/fib45)\r\n* [Formalna weryfikacja](https://github.com/przemko/formal-verification)",
+  "body": "# Moje repozytoria\r\n\r\n## Dydaktyka\r\n\r\n* [Wstęp do informatyki i programowania](http://github.com/przemko/c-clang-wip)\r\n\r\n## Przykłady\r\n\r\n* [Obsługa terminala w języku Ada](https://github.com/przemko/ada-terminal)\r\n* [Baza i uniwersum Herbranda](https://github.com/przemko/prolog-standard-herbrand)\r\n* [Fib (45)](https://github.com/przemko/fib45)\r\n* [Formalna weryfikacja](https://github.com/przemko/formal-verification)\r\n\r\n# Obserwowane przeze mnie repozytoria\r\n\r\n* [SPARK 2014](https://github.com/AdaCore/spark2014)\r\n* [Ada na platformy bare-board](https://github.com/AdaCore/Ada_Drivers_Library)\r\n* [Firmware dla Crazyflie napisany w Ada](https://github.com/AdaCore/Certyflie)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
